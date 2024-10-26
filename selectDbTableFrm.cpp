@@ -1,11 +1,3 @@
-//---------------------------------------------------------------------------
-//
-// Name:        selectDbTableFrm.cpp
-// Author:      deathbunk
-// Created:     4/25/2010 9:07:33 PM
-// Description: selectDbTableFrm class implementation
-//
-//---------------------------------------------------------------------------
 #include "createFieldFrm.h"
 
 #include "wx/choicdlg.h"
