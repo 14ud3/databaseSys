@@ -14,7 +14,6 @@
 #include "password.h"
 
 #include<fstream>
-using namespace std;
 
 #include <wx/textdlg.h>
 #include "checkFieldFrm.h"
